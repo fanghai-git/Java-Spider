@@ -14,4 +14,4 @@ Java多线程下载王者荣耀官网皮肤，图片高清，可以当作壁纸
 #### 结果界面2：
 ![Image text](https://github.com/fanghai-git/Java-Spider/blob/main/md_image/结果界面2.png)
 #### 示例图片：
-![Image text](https://github.com/fanghai-git/Java-Spider/blob/main/md_image/1 武道奇才.png)
+![Image text](https://github.com/fanghai-git/Java-Spider/blob/main/md_image/1%20武道奇才.png)
